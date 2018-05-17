@@ -27,7 +27,7 @@ By using UFRN's open data , we were capable to get the necessary datasets contai
 - Jupter Notebook;
 - Python 3.6.
 
-## Python Libraries ##
+## Python Libraries: ##
 
 - Pandas;
 - Matplotlib;
@@ -38,11 +38,11 @@ By using UFRN's open data , we were capable to get the necessary datasets contai
 
 Our motivation for this work was to try to kill curiosity about the IMD and ECT departments of UFRN, since the number of students between the courses of both departments is quite dissimilar. For this we perform two comparatives: comparative between the students of the BTI course and the CET course of both departments; And comparative between the expenses of each department. After that, we were able to discover a lot of interesting and even surprising data.
 
-# Link of the explanatory video in portuguese #
+## Link of the explanatory video in portuguese: ##
 
-<https://youtu.be/qOuFESAB4SM>
+- <https://youtu.be/qOuFESAB4SM>
 
-# Researchers github link  #
+## Researchers github link  ##
 - Abraão Vitor - <https://github.com/confuzo>
 - Geraldo Júnior - <https://github.com/geraldojrcg>
 
