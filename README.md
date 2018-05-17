@@ -2,8 +2,8 @@
 
 ## Researchers: ##
 
-- Abraão Vitor Lopes Dantas - <abraaovld@gmail.com> - Github: [@Confuzo](github.com/Confuzo)
-- Geraldo Fernandes S. Júnior - <geraldojrcg@gmail.com> - Github: [@geraldojrcg](github.com/geraldojrcg)
+- Abraão Vitor Lopes Dantas - <abraaovld@gmail.com> - Github: [@Confuzo](https://github.com/Confuzo)
+- Geraldo Fernandes S. Júnior - <geraldojrcg@gmail.com> - Github: [@geraldojrcg](https://github.com/Geraldojrcg)
 
 # Introduction: #
 
