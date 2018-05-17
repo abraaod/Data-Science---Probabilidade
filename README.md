@@ -2,8 +2,8 @@
 
 ## Researchers: ##
 
-Abraão Vitor Lopes Dantas - <abraaovld@gmail.com>
-Geraldo Fernandes S. Júnior - <geraldojrcg@gmail.com>
+- Abraão Vitor Lopes Dantas - <abraaovld@gmail.com>
+- Geraldo Fernandes S. Júnior - <geraldojrcg@gmail.com>
 
 # Introduction: #
 
