@@ -43,7 +43,7 @@ Our motivation for this work was to try to kill curiosity about the IMD and ECT 
 <https://youtu.be/qOuFESAB4SM>
 
 # Researchers github link  #
-- Abraão Vitor <https://github.com/confuzo>
-- Geraldo Júnior <https://github.com/geraldojrcg>
+- Abraão Vitor - <https://github.com/confuzo>
+- Geraldo Júnior - <https://github.com/geraldojrcg>
 
 
